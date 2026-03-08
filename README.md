@@ -28,6 +28,8 @@ python main.py [-h] -v VM_ADDR -f FILE [-d]
 
 # 例子
 
+更多例子见/example目录下。
+
 ## sub_1cc3c0
 
 基于trace得到的指令轨迹，人为分析的结果如下：
@@ -182,6 +184,7 @@ print(f"最终生成结果: {hex(result)}")
 
 ```
 ````
+
 
 
 
