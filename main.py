@@ -123,7 +123,7 @@ def start(vm_addr, file_path, out_file_name):
         resultExpr = f'{last_key}'
         if isContainMem(new_expr):# 存在内存数，需要展示; 如果全是立即数，则不予展示
             resultExpr += f'= {new_expr}'
-        elif " " in concreteExpr:   # 存在计算过程
+        if " " in concreteExpr:   # 存在计算过程
             resultExpr += f'= {concreteExpr}'
         resultExpr += f'= {hex(last_key.value)}'
 
@@ -138,4 +138,5 @@ def start(vm_addr, file_path, out_file_name):
 
 
 if __name__ == '__main__':
+
     main()
